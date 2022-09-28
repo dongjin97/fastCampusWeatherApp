@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  WeatherApp
+//  weatherApp
 //
 //  Created by 원동진 on 2022/09/27.
 //
